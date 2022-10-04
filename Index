@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title> Ders Notu </title>
+        <meta charset="utf-8"/>
+        <meta name="keywords" content="ders,not,vize,"/>
+    </head>
+    <body>
+        <h1> En büyük font h1 olmak üzere</h1>
+        <h6> toplam 6 adet seçenek vardır.</h6>
+        <p> "< p >"" ile yeni paragraf oluşturulutor. <br> Eğer "< br >" etiketini kullanırsan yeni paragraf komutu olmadan alt satıra geçersin. </p>
+        <p> ikinci paragraf</p>
+        <hr> "< hr >" Bu etiketi kullanırsan yatay çizgi çizer.
+    </body>
